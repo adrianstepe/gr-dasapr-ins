@@ -1,0 +1,10 @@
+Z:\programmesana desktop\AS_gridasaprekins\AS_gridasaprekins\bin\Debug\AS_gridasaprekins.exe.config
+Z:\programmesana desktop\AS_gridasaprekins\AS_gridasaprekins\bin\Debug\AS_gridasaprekins.exe
+Z:\programmesana desktop\AS_gridasaprekins\AS_gridasaprekins\bin\Debug\AS_gridasaprekins.pdb
+Z:\programmesana desktop\AS_gridasaprekins\AS_gridasaprekins\obj\Debug\AS_gridasaprekins.csprojAssemblyReference.cache
+Z:\programmesana desktop\AS_gridasaprekins\AS_gridasaprekins\obj\Debug\AS_gridasaprekins.Form1.resources
+Z:\programmesana desktop\AS_gridasaprekins\AS_gridasaprekins\obj\Debug\AS_gridasaprekins.Properties.Resources.resources
+Z:\programmesana desktop\AS_gridasaprekins\AS_gridasaprekins\obj\Debug\AS_gridasaprekins.csproj.GenerateResource.cache
+Z:\programmesana desktop\AS_gridasaprekins\AS_gridasaprekins\obj\Debug\AS_gridasaprekins.csproj.CoreCompileInputs.cache
+Z:\programmesana desktop\AS_gridasaprekins\AS_gridasaprekins\obj\Debug\AS_gridasaprekins.exe
+Z:\programmesana desktop\AS_gridasaprekins\AS_gridasaprekins\obj\Debug\AS_gridasaprekins.pdb
